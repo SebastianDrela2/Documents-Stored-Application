@@ -17,6 +17,7 @@ Current project consists of 4 features (CRUD) mentioned above and ability to add
 NetTotal and GrossTotal auto updates within any new user insertion.
 
 # Interaction guide
+ In order to launch Application user should exctract downloaded files into desired folder and then open WinFormsDataManage.exe.
 
  Application User must first enter Connection string in order to access tables of given DataBase and then proceed with pressing OK Button.
  Connectionstring is saved in Settings folder which is located in main directory User wont be prompted to enter connection string again.
