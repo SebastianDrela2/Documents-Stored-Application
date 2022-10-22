@@ -6,7 +6,7 @@ Application responsible for CRUD operations on stored documents.
 
 # General Information
  In order to succesfully open this project User must have .NET 6 package installed as this release does not contain it due to GitHub 100 mb limit.
- Database MUST consists of two tables "people" and "operations".
+ Database MUST consists of two tables "clients" and "operations".
  
  clients table is required to have three columns "client_id" , "operation_date" , "DocumentName"
  operations is required to have five columns "ProductName" , "Ammount" , "NetPrice" , "GrossPrice , "client_id"
